@@ -23,5 +23,4 @@ def find_the_cheese(cheeses)
   end
 end
 
-famous_cats = ["cat1", "cat2", "cat3"]
-famous_cats.incldue?("Maru")
+cats_and_dogs = ["cat", "cat", "dog", "cat", "dog", "dog"]

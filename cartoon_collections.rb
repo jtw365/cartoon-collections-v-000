@@ -22,5 +22,3 @@ def find_the_cheese(cheeses)
     cheese_types.include?(cheese)
   end
 end
-
-cats_and_dogs = ["cat", "cat", "dog", "cat", "dog", "dog"]

@@ -22,3 +22,5 @@ def find_the_cheese(cheeses)
     cheese_types.include?(cheese)
   end
 end
+
+famous_cats = ["cat1", "cat2"]

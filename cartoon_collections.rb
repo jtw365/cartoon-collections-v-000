@@ -23,4 +23,4 @@ def find_the_cheese(cheeses)
   end
 end
 
-famous_cats = ["cat1", "cat2"]
+famous_cats = ["cat1", "cat2", "cat3"]

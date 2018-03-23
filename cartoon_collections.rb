@@ -24,3 +24,4 @@ def find_the_cheese(cheeses)
 end
 
 famous_cats = ["cat1", "cat2", "cat3"]
+famous_cats.incldue?("Maru")
